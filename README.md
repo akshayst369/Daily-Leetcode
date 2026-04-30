@@ -11,6 +11,7 @@ Leetcode progress repository from day 478
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +50,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3742-maximum-path-score-in-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
