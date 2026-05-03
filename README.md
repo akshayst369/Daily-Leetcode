@@ -57,4 +57,12 @@ Leetcode progress repository from day 478
 | ------- |
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akshayst369/Daily-Leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akshayst369/Daily-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
