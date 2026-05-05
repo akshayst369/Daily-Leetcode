@@ -42,6 +42,7 @@ Leetcode progress repository from day 478
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -65,4 +66,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/akshayst369/Daily-Leetcode/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
