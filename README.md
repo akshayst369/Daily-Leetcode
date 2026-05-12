@@ -11,6 +11,7 @@ Leetcode progress repository from day 478
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshayst369/Daily-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -55,6 +56,7 @@ Leetcode progress repository from day 478
 ## Sorting
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
@@ -78,4 +80,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
