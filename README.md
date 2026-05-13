@@ -12,6 +12,7 @@ Leetcode progress repository from day 478
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshayst369/Daily-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -24,6 +25,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
