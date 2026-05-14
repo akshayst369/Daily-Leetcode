@@ -16,6 +16,7 @@ Leetcode progress repository from day 478
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshayst369/Daily-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
 | ------- |
