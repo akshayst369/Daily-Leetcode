@@ -57,6 +57,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [0061-rotate-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
