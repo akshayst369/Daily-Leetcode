@@ -57,6 +57,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [0061-rotate-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/0061-rotate-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
