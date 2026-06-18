@@ -63,6 +63,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/akshayst369/Daily-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
