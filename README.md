@@ -15,6 +15,7 @@ Leetcode progress repository from day 478
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshayst369/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshayst369/Daily-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -70,6 +71,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshayst369/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshayst369/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,4 +116,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akshayst369/Daily-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/akshayst369/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
