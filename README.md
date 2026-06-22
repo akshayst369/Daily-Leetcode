@@ -30,6 +30,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/akshayst369/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/akshayst369/Daily-Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -85,6 +86,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/akshayst369/Daily-Leetcode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/akshayst369/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
@@ -119,5 +121,6 @@ Leetcode progress repository from day 478
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/akshayst369/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshayst369/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
