@@ -20,6 +20,7 @@ Leetcode progress repository from day 478
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshayst369/Daily-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayst369/Daily-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
@@ -35,6 +36,7 @@ Leetcode progress repository from day 478
 | [1345-jump-game-iv](https://github.com/akshayst369/Daily-Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/akshayst369/Daily-Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayst369/Daily-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -118,6 +120,7 @@ Leetcode progress repository from day 478
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akshayst369/Daily-Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
