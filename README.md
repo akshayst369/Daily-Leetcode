@@ -33,6 +33,7 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayst369/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/akshayst369/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/akshayst369/Daily-Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -92,6 +93,7 @@ Leetcode progress repository from day 478
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayst369/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0796-rotate-string](https://github.com/akshayst369/Daily-Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/akshayst369/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
@@ -147,4 +149,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayst369/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
