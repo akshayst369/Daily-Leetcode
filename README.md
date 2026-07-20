@@ -11,6 +11,7 @@ Leetcode progress repository from day 478
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayst369/Daily-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
+| [1260-shift-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1345-jump-game-iv](https://github.com/akshayst369/Daily-Leetcode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshayst369/Daily-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -54,6 +55,7 @@ Leetcode progress repository from day 478
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -105,6 +107,7 @@ Leetcode progress repository from day 478
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Greedy
 |  |
