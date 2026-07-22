@@ -8,6 +8,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshayst369/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/akshayst369/Daily-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayst369/Daily-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
@@ -34,6 +35,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayst369/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/akshayst369/Daily-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/akshayst369/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/akshayst369/Daily-Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshayst369/Daily-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -52,6 +54,7 @@ Leetcode progress repository from day 478
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshayst369/Daily-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshayst369/Daily-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
