@@ -156,4 +156,8 @@ Leetcode progress repository from day 478
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayst369/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
