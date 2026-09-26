@@ -8,6 +8,7 @@ Leetcode progress repository from day 478
 | ------- |
 | [0001-two-sum](https://github.com/akshayst369/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshayst369/Daily-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayst369/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayst369/Daily-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayst369/Daily-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/akshayst369/Daily-Leetcode/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@ Leetcode progress repository from day 478
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayst369/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/akshayst369/Daily-Leetcode/tree/master/0396-rotate-function) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshayst369/Daily-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/akshayst369/Daily-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
